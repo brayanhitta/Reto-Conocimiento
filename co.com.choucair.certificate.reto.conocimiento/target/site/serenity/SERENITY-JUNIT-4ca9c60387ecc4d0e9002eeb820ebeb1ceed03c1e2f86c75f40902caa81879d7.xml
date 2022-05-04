@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Compra y consulta de vuelos con y sin millas LATAM PASS" skipped="0" tests="1" time="28.46" timestamp="2022-05-03 11:14:22"><testcase name="Consulta de vuelos con los datos del viaje sin tener datos reales de la compra"/></testsuite>
